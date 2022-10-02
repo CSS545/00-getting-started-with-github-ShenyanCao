@@ -1,0 +1,8 @@
+HW0 - Shenyan Cao (Lilian)
+1) Intended platform for final project (e.g. Android, iOS): iOS
+2) Intended framework/programming language for your final project (e.g. Kotlin, Swift): Swift
+3) Whether you want to explore cross-platform development: I would like to explore it, but not sure if would include it in final project or not. 
+4) Include a brief explanation for your selections: 
+	- All my mobile devices are using iOS operating system. For convenience, I intended to use iOS platform for final project.
+	- Swift and Objective-C are two main programming languages for developing iOS apps. Compared to Objective-C, Swift is faster and safer. Swift has a strong typing system and error handling, which prevents occurrence of code crashes and errors in production. Besides, Swift has high scalability, which means we can easily and effectively modify Swift code. So, I choose to use Swift for my final project. 
+	- Cross-platform development is to develop apps that can work on more than one platform, such as working on both iOS and Android platforms simultaneously. I would like to explore cross-platform development, because it can make apps usable by a wider customer base as the apps would be compatible with various devices using different operating systems. However, for the final project, I have no plan yet, so I am not sure if I would do it in fianl project. 
